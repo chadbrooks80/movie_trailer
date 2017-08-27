@@ -2,7 +2,7 @@
 `Movie Trailer Website` is a Python application that creates a website (html file) which displays your favorite movies.  Features include allowing you to display your movies on a responsive website with a large title, poster image, and a pop-up movie trailer display from YouTube. 
 
 ## Running the app app
-To have the website created and automatically launched on your default browser, you will need to run the following: 
+To have the website created and automatically launched on your default browser, you will need to run the following code from the terminal (in Mac or Linux) or the command prompt (in Microsoft Windows): 
 ```
 python entertainment_center.py
 ```
